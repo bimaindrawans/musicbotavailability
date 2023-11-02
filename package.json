@@ -13,13 +13,13 @@
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/rest": "^0.1.0-canary.0",
-    "@discordjs/voice": "^0.7.5",
+    "@discordjs/rest": "^2.0.1",
+    "@discordjs/voice": "^0.16.0",
     "consola": "^3.2.3",
-    "discord-api-types": "^0.25.2",
+    "discord-api-types": "^0.37.61",
     "discord.js": "^13.6.0",
-    "dotenv": "^10.0.0",
-    "monk": "^7.3.3"
+    "dotenv": "^16.3.1",
+    "monk": "^7.3.4"
   },
   "devDependencies": {
     "@types/glob": "^8.1.0",
